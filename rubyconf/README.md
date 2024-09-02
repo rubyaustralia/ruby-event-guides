@@ -14,7 +14,7 @@ It is super important that an organiser does not rely on *only* this document. T
 
 ## Becoming an organiser
 
-Around the time of each RubyConf Australia event, the Ruby Australia committee ask for expressions of interest from people who are thinking about running the conference the following year. These notices are posted to the Rails Oceania Google group and the Ruby Australia Slack account.
+Around the time of each RubyConf Australia event, the Ruby Australia committee ask for expressions of interest from people who are thinking about running the conference the following year. These notices are posted to the Ruby Australia community and the Ruby Australia Slack account.
 
 ## Now that you're an organiser, what's next?
 
@@ -56,6 +56,6 @@ Please keep in mind that previous organisers and the Ruby Australia committee wi
 
   Yes. Your ticket prices must include GST. 10% of the ticket price is not yours to spend. Budget for this.
 
-- Where can I get hold of the @rubyconf_au Twitter account details?
+- Where can I get hold of the rubyconf_au social media account details?
 
   The Ruby Australia committee can provide these details to you.
