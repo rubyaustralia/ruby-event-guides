@@ -1,22 +1,24 @@
-# Rails Camp
+# Ruby Retreat
+
+**Rails Camps were renamed to Ruby Retreats in 2024; we refer to past Rails Camps as they were named at the time, and future events as Ruby Retreats.**
 
 ## Updates and Contributions
 
-This document is open source. You're welcome to open issues with any questions you might have, and if you've organised Rails Camps (or other events) before, please do submit pull requests with any details you feel should be covered but aren't.
+This document is open source. You're welcome to open issues with any questions you might have, and if you've organised Ruby Retreats (or other events) before, please do submit pull requests with any details you feel should be covered but aren't.
 
 The Ruby Australia committee can be contacted by emailing [committee@ruby.org.au](mailto:committee@ruby.org.au).
 
-## So you want to run a Rails Camp!
+## So you want to run a Ruby Retreat!
 
-This guide is meant to give a potential organiser a reasonably detailed list of things that must be considered when planning and running a Rails Camp.
+This guide is meant to give a potential organiser a reasonably detailed list of things that must be considered when planning and running a Retreat.
 
 It is super important that an organiser does not rely on *only* this document. Talk to previous organisers and seek the help of Ruby Australia for advice and support when you need it.
 
 ## Becoming an organiser
 
-There is no official organiser selection process as such, but often the organiser(s) for the next Rails Camp volunteer at a Ruby Australia AGM at the current Rails Camp. For example, during the Ruby Australia AGM at Rails Camp Perth in November 2014, Leonard Garvey volunteered to run the Rails Camp Sydney event that eventually took place in June 2015.
+There is no official organiser selection process as such, but often the organiser(s) for the next Retreat volunteer at a Ruby Australia general meeting at the current Retreat. For example, during the Ruby Australia AGM at Rails Camp Perth in November 2014, Leonard Garvey volunteered to run the Rails Camp Sydney event that eventually took place in June 2015.
 
-First preference is usually given to the states and territories that haven't hosted before (or have had the longest break since last hosting), but only if there are volunteers for that state/territory.
+First preference is usually given to the states and territories that haven't hosted before (or have had the longest break since last hosting), but only if there are volunteers for that state/territory. On occasion, events have been organised remotely where there has been a significant time since the last event in a particular location, and/or no interest from local community members - e.g Rails Camp Darwin in 2017 and Rails Camp Hobart in 2018.
 
 Anyone who is interested in volunteering should get in touch with the Ruby Australia committee to see what plans are in place for future camps and get your offer on their radar. If you have some fellow volunteers to work with, that's even better. A core team of two or three people is highly recommended - running a Rails Camp is a lot of work!
 
@@ -24,9 +26,9 @@ Anyone who is interested in volunteering should get in touch with the Ruby Austr
 
 Your first steps should be:
 
-* Rope in some fellow volunteers to help organise
-* Find potential venues in your chosen area and timeframe
-* Put together a budget
+* Rope in some fellow volunteers to help organise ([Team](team.md))
+* Put together a budget ([Budgeting](budgeting.md))
+* Find potential venues in your chosen area and timeframe ([Venue Considerations](venue.md))
 
 Please keep in mind that previous organisers and the Ruby Australia committee will all be happy to provide feedback along the way.
 
@@ -35,6 +37,7 @@ Please keep in mind that previous organisers and the Ruby Australia committee wi
 * [Venue Considerations](venue.md)
 * [Planning](planning.md)
 * [Tickets](tickets.md)
+* [Budgeting](budgeting.md)
 * [Communication](communication.md)
 * [Sponsorship](sponsorship.md)
 * [Catering](catering.md)
@@ -61,8 +64,8 @@ Please keep in mind that previous organisers and the Ruby Australia committee wi
 
 - Do I *have to* charge GST?
 
-  Yes. Your ticket prices must include GST. 10% of the ticket price is not yours to spend. Budget for this.
+  Yes. Your final ticket prices must include GST of 10%. The simplest way to budget for this is to tack GST onto your ticket prices at the very end.
 
 - Where can I get hold of the @railscamp_au Twitter account details?
 
-  Contact the previous Rails Camp organisers. Ruby Australia is working on a better thing for this.
+  Contact the previous Rails Camp organisers or the committee. Ruby Australia is working on a better way to handle this.
