@@ -10,7 +10,7 @@ This is a rough guide - if you fall behind it's not the end of the world, but ce
 * 2 weeks out: confirm numbers with the venue and caterers
 * Monday evening after the event: collapse into bed after a job well done.
 
-The deadlines to confirm numbers with the venue and the caterers are worth confirming - it's good to know the very latest point at which numbers can be updated, in case of late registrations.
+The deadlines to confirm numbers with the venue and the caterers are worth confirming - it's good to know the very latest point at which numbers can be updated, in case of late registrations. If you're [printing t-shirts](swag.md), their deadline for final numbers may be earlier than the venue and/or caterers.
 
 ### Remote Organising
 

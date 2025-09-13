@@ -10,7 +10,7 @@ Making swag optional solves this problem nicely - for example, you can collect t
 Other things to bear in mind:
 
 * T-shirt printing usually needs a fair bit of lead time - likely more lead time than your venue will need for final numbers. This moves the deadline for final ticket sales to the shirt printer's deadline, not the venue's.
-* Being inclusive around sizing is a good idea - many t-shirt printers offer shirts specifically tailored to women.
+* Being inclusive around sizing is a good idea - many printers offer t-shirt cuts that are specifically tailored for women.
 * Coming up with a design isn't easy! This is potentially a good place for a merch sponsor to donate their time and design expertise in return for recognition at the event, a free ticket, etc.
-* It doesn't need to be a t-shirt! Past alternatives have included a sun hat (Darwin), puffer jacket (Hobart), coffee mugs...
+* It doesn't have to be a t-shirt - past alternatives have included a sun hat (Darwin), puffer jacket (Hobart), coffee mugs...
 * Receiving delivery of multiple boxes of swag and transporting them to the venue is a good job for one of your local volunteers.

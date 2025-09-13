@@ -22,7 +22,7 @@ When running a ballot, Ruby Australia committee should be given reserved places 
 
 ### Deadlines
 
-It's recommended that you have a deadline for ticket sales of a month prior to the event. This helps motivate people to buy their tickets sooner rather than later, as well as giving you a better idea of how your budget's looking at that point in time, _and_ makes it easier to confirm numbers with the venue and caterers. (Note that if you are providing [swag](swag.md), the deadline to finalise numbers for t-shirt printing may be earlier deadline than those for the venue and/or caterers.)
+It's recommended that you have a deadline for ticket sales of a month prior to the event. This helps motivate people to buy their tickets sooner rather than later, as well as giving you a better idea of how your budget's looking at that point in time, _and_ makes it easier to confirm numbers with the venue and caterers. (Note that if you are providing [swag](swag.md), the deadline to finalise numbers for t-shirt printing may be earlier than those for the venue and/or caterers.)
 
 ### Scholarship / Diversity Tickets
 
