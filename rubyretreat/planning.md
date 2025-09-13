@@ -12,6 +12,10 @@ This is a rough guide - if you fall behind it's not the end of the world, but ce
 
 The deadlines to confirm numbers with the venue and the caterers are worth confirming - it's good to know the very latest point at which numbers can be updated, in case of late registrations.
 
+### Remote Organising
+
+If you're thinking about doing this, there are some [specific considerations](remote.md) you'll want to be aware of.
+
 ### Budget
 
 Retreat budget templates can be supplied by previous organisers, which will provide a good starting point.

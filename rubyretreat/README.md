@@ -43,6 +43,7 @@ Please keep in mind that previous organisers and the Ruby Australia committee wi
 * [Communication](communication.md)
 * [Equipment](equipment.md)
 * [Planning](planning.md)
+* [Remote Organising](remote.md)
 * [Schedule](schedule.md)
 * [Sponsorship](sponsorship.md)
 * [Swag](swag.md)
