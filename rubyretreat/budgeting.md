@@ -15,6 +15,6 @@ Example ticket pricing and attendance from recent events:
 
 Let's take Warrnambool as an example. After deducting GST ($31.82) the organiser's budget was $318.18 per head. A venue that charges $260 per head is potentially a good deal here, assuming that includes all meals - but if outside catering is needed, that changes the equation.
 
-In this case there would be $58.18 per head left over, or about $3,490 in total. This seems like a lot, but there is still [transport](transport.md) and [catering](catering.md) to keep in mind.
+In this case there would be $58.18 per head left over, or about $3,490 in total. This seems like a lot, but there is still [transport](transport.md), [catering](catering.md), and potentially [swag](swag.md) to keep in mind.
 
 If you're comfortable that you can charge around the $300-$350 mark, get enough attendees, and have enough left over to comfortably cover catering, transport, and other things that crop up - then your budget is probably in good shape.
