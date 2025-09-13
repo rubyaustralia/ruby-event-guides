@@ -1,16 +1,30 @@
 ## Venue Considerations
 
+For any venue under consideration, the questions you'll need to answer include:
+
+* What is the minimum/maximum number of people? (Are you on the hook for a minimum amount even if you don't sell that many tickets?)
+* Is it within an hour or two by bus from an airport?
+* Are there separate accommodations for attendees with specific needs? (e.g those with allergies, disabilities, etc)
+* Does it permit camping?
+* Does it have the various spaces needed for a Retreat? (e.g a dining area, coding space, social/Werewolf spaces, a quiet room...)
+* Does the venue supply catering?
+* Is the catering suitable for adults? (i.e not just chicken tenders and chips)
+* Alternatively, does the venue allow outside catering?
+* Can the venue accommodate a coffee van? (Is there a space with access to power, water, rubbish...)
+
 ### Types of Venues
 
-Rails Camps are generally run at venues that cater for large groups with dormitory rooms. Often, their usual clients are school groups or scouts. They're usually pretty lo-fi - shared bathrooms, basic bedding, etc. The advantages are that these venues can sometimes hold 150+ people, and usually are not particularly expensive.
+Ruby Retreats are generally run at venues that cater for large groups with dormitory rooms. Often, their usual clients are school groups or scouts. They're usually pretty lo-fi - shared bathrooms, basic bedding, etc. The advantages are that these venues can sometimes hold 150+ people, and usually are not particularly expensive.
 
 Researching for venues can sometimes be tricky - but searching for school and scout campsites is a good place to start. It's _highly recommended_ that you visit the venue if at all possible to confirm it's going to be fit for purpose.
 
+You can find a list of past venues at the [Rails.Camp](https://rails.camp) site. Repeat venues are probably an indication that the venue was considered a good choice; community members who attended those events are a good source of info as well.
+
 ### Scheduling
 
-Rails Camps in Australia run from Friday afternoon through to Monday morning, and occur in the middle of the year (June or July), or towards the end of the year (usually November, sometimes December). So, that should give you a decent timeframe for enquiring about available weekends.
+Retreats in Australia run from Friday afternoon through to Monday morning, and pre-COVID tended to happen once in the middle of the year (June or July), and once towards the end of the year (usually November, sometimes December). There was a rough goal of having southern events in November and northern camps in June/July, and while we weren't 100% consistent with this it did generally result in more pleasant conditions.
 
-It's worth keeping in mind the weather. While we've not been perfect at this, there's a rough goal of having southern camps in November, and northern camps in June/July, which generally leads to the more pleasant conditions.
+Post-COVID, we've somewhat split the difference and have had one event per year, once in February and twice in October.
 
 You'll also want to check about related events that may potentially conflict, including:
 
@@ -20,11 +34,11 @@ You'll also want to check about related events that may potentially conflict, in
 * [ElixirCamp](http://elixir.camp)
 * [Web Directions](http://www.webdirections.org)
 
-If at all possible, steer clear of running a Rails Camp in direct competition with these events - and ideally have a few weeks, if not a month, gap between any of the camp events.
+If at all possible, steer clear of running a Retreat in direct competition with these events - and ideally have a few weeks, if not a month, gap between your event and any others on this list.
 
 ### Location
 
-Camp locations have historically been within an hour or so from the nearest city and/or airport - ideally, somewhere easily accessible by cars and buses. Sometimes other modes of transport have been required (e.g. ferries) - which can add to the sense of adventure, but also adds extra organising overhead for you.
+Retreat locations have historically been within an hour or so from the nearest city and/or airport - ideally, somewhere easily accessible by cars and buses. Sometimes other modes of transport have been required (e.g. ferries) - which can add to the sense of adventure, but also adds extra organising overhead for you.
 
 ### Accessibility
 
@@ -32,11 +46,11 @@ Most venues will likely cater for a variety of accessibility needs (i.e.: for th
 
 ### Capacity
 
-These days, Rails Camps in Australia usually host 100+ people - sometimes they're closer to 150, sometimes they're closer to 80. Having a venue that can fit a larger group is preferred, but make sure you're clear with the venue on whether the hiring fee will be per-person or a flat rate, and if it's the former what the timeframes for final confirmation are.
+Pre-COVID, Rails Camps in Australia usually hosted 80+ people - anywhere up to 150 in Melbourne or Sydney, sometimes closer to 80 in other locations. Post-COVID events have been in the 60-90 range. Having a venue that can fit a larger group is preferred, but make sure you're clear with the venue on whether the hiring fee will be per-person or a flat rate (usually per-person), if there is a minimum cost you'll incur regardless of ticket sales, and the timeframes for payment of the deposit (usually when you book) and the remaining balance (generally 2-4 weeks prior to the event).
 
 ### Camping
 
-Some people like to camp in actual tents at Rails Camp. These people usually number somewhere between a handful and a dozen - the clear majority of attendees prefer a dorm bed over a tent. It's worth confirming with the venue whether camping is allowed - it's certainly not a deal breaker, but it's good to be clear.
+Some people like to camp in actual tents at a Retreat. These people usually number somewhere between a handful and a dozen - the clear majority of attendees prefer a dorm bed over a tent. It's worth confirming with the venue whether camping is allowed - it's certainly not a deal breaker, but it's good to be clear.
 
 ### Facilities
 
@@ -52,11 +66,11 @@ You will need a projector for each session room, and probably for the dining or 
 
 ### Alcohol
 
-Some campsites - especially those aimed at children, or those run by religious associations - have an alcohol-free policy. If you want to run a dry camp (which has not yet been tried, but this is your prerogative), then this won't be an issue, but otherwise, you'll need to keep going with your search for appropriate venues.
+Some campsites - especially those aimed at children, or those run by religious associations - have an alcohol-free policy. If you want to run a dry event (which has not yet been tried, but this is your prerogative), then this won't be an issue, but otherwise, you'll need to keep going with your search for appropriate venues.
 
 ### Electricity
 
-100+ developers means 100+ devices drawing power. Most campsites handle this without any issues, but if they're using generators rather than connected to the grid, this may be a sticking point. Something to confirm with any likely venues!
+100+ developers means 100+ devices drawing power. Most campsites handle this without any issues, but if they're using generators rather than connected to the grid, this may be a sticking point. For the coding room, you also want enough power points to handle a whole bunch of power boards being daisy chained across the room. Something to confirm with any likely venues!
 
 ### First Aid
 
