@@ -25,7 +25,7 @@ When it's time to release tickets, you'll want those on the website, and it's al
 
 Each venue has slightly different approaches to bed linen and towels. Usually mattresses and sheets are provided, sometimes pillows, sometimes blankets - make sure you confirm this with the venue!
 
-Using an existing Retreat site is likely an excellent place to start! You can go all out if you really want, but at the end of the day people aren't going to care much if it's not shiny.
+Using an existing Ruby Retreat site is likely an excellent place to start! You can go all out if you really want, but at the end of the day people aren't going to care much if it's not shiny.
 
 ### Promotion
 
@@ -33,7 +33,7 @@ These are just some suggestions on where to promote the Rails Camp:
 
 * [Australian](http://ruby.org.au) and [New Zealand](http://ruby.nz) Ruby meetups
 * [Ruby or Rails Oceania](https://groups.google.com/forum/#!forum/rails-oceania) and [Rails Camp](https://groups.google.com/forum/#!forum/railscamp) Google groups
-* [Ruby Australia Slack](https://rubyau-slack.herokuapp.com)
+* [Ruby Oceania Slack](https://ruby.org.au/slack)
 * Twitter ([@railscamp_au](https://twitter.com/railscamp_au), [@rubyaustralia](https://twitter.com/rubyaustralia))
 * Rails Girls
 * Universities (especially to promote the concession tickets)

@@ -6,7 +6,7 @@
 
 This document is open source. You're welcome to open issues with any questions you might have, and if you've organised Ruby Retreats (or other events) before, please do submit pull requests with any details you feel should be covered but aren't.
 
-The Ruby Australia committee can be contacted by emailing [committee@ruby.org.au](mailto:committee@ruby.org.au).
+The Ruby Australia committee can be contacted by emailing [committee@ruby.org.au](mailto:committee@ruby.org.au) or on the [Ruby Oceania Slack](https://ruby.org.au/slack).
 
 ## So you want to run a Ruby Retreat?
 
@@ -22,7 +22,7 @@ Often the organiser(s) for the next Retreat volunteer at a Ruby Australia genera
 
 First preference is usually given to the states and territories that haven't hosted before (or have had the longest break since last hosting), but only if there are volunteers for that state/territory. Events have also been organised remotely where there has been a significant time since the last event in a particular location, and/or no interest from local community members - e.g Rails Camp Darwin in 2017 and Rails Camp Hobart in 2018.
 
-Anyone who is interested in volunteering should get in touch with the Ruby Australia committee to see what plans are in place for future events and get your offer on their radar. If you have some fellow volunteers to work with, that's even better. A core team of two or three people is highly recommended - running a Ruby Retreat is a lot of work!
+Anyone who is interested in volunteering should get in touch with the Ruby Australia committee to see what plans are in place for future events (and to see if others have also put their hand up). If you have some fellow volunteers to work with, that's even better. A core team of two or three people is highly recommended - running a Ruby Retreat is a lot of work!
 
 ## Now that you're an organiser, what's next?
 

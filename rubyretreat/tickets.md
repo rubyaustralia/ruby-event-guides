@@ -1,6 +1,6 @@
 ## Tickets
 
-Ruby Australia has existing accounts for the payment gateway Pin Payments, and the ticketing service Tito, so it is perhaps easiest to leverage these. No matter who you go with, you will need to factor in fees for both into your budget.
+Ruby Australia has existing accounts for the payment gateway Stripe, and the ticketing service Tito, so it is perhaps easiest to leverage these. No matter who you go with, you will need to factor in fees for both into your budget.
 
 You will also need to charge GST for your tickets - due to the size of Ruby Australia's yearly income, it is required to collect GST. Again, factor this into your budget accordingly.
 
@@ -16,7 +16,7 @@ Early-bird tickets are another option, though may be unnecessary.
 
 ### Ballots
 
-If your venue is smaller than usual (holding fewer than 100 people) and a high demand is expected, there is also the option of running a ticket ballot: people can enter the ballot before a well-publicised deadline, and then tickets are randomly allocated. Previous event organisers may have code you can re-use for this purpose.
+If your venue is smaller than usual (holding fewer than 60 people) and a high demand is expected, there is also the option of running a ticket ballot: people can enter the ballot before a well-publicised deadline, and then tickets are randomly allocated. Previous event organisers may have code you can re-use for this purpose.
 
 When running a ballot, Ruby Australia committee should be given reserved places (if they wish to attend) for the purpose of the General Meeting that will take place.
 

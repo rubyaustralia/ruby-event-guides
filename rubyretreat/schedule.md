@@ -19,15 +19,15 @@ Some sessions may be confirmed prior to the event if you wish - and doing so pub
 
 However, generally there's plenty of room for people to put their hands up on the day to present on whichever topics they like. These presentations usually run from late morning to late afternoon on both Saturday and Sunday, with breaks for both lunch and the Ruby Australia general meeting.
 
-Whiteboards and/or butcher's paper are the best ways to capture people's sessions. It might also be useful to have a section on the board/paper for people to note topics they'd like to hear about (which may inspire others to put together a presentation).
+Whiteboards and/or butcher's paper are the best ways to capture people's sessions (or alternatively, via the Ruby Retreat Slack channel). It might also be useful to have a section on the board/paper for people to note topics they'd like to hear about (which may inspire others to put together a presentation).
 
 ### Ruby Australia General Meeting
 
 Historically, a general meeting for Ruby Australia happened at each Rails Camp. One meeting was the Annual General Meeting, the other a Special General Meeting. Those meetings still happen on the same schedule, and where the timing is right they are held at a Ruby Retreat (and online).
 
-Where they coincide with a Retreat, these usually run for 90 to 120 minutes on the Sunday afternoon after lunch. A large space (to hold 50+ people) will be required for this - often this means it takes over the sessions space. As the Retreat organiser you will not need to worry about organising an agenda or chairing the meeting - Ruby Australia will sort that out.
+Where they coincide with a Retreat, these usually run for 90 to 120 minutes one afternoon after lunch. A large space (to hold 50+ people) will be required for this - often this means it takes over the sessions space. As the Retreat organiser you will not need to worry about organising an agenda or chairing the meeting - Ruby Australia will sort that out.
 
-These meetings are open for all Ruby Australia members - and by attending a Retreat, everyone who wants to be a Ruby Australia member is automatically a member - so this means ensuring members who aren't at your event will have the opportunity to attend. Test out your Zoom connection well ahead of Sunday afternoon so that you have time to work out a contingency plan if needed.
+These meetings are open for all Ruby Australia members - and by attending a Retreat, everyone who wants to be a Ruby Australia member is automatically a member - so this means ensuring members who aren't at your event will have the opportunity to attend online. Test out your Zoom connection well ahead of the general meeting so that you have time to work out a contingency plan if needed.
 
 ### Optional camp activities
 
