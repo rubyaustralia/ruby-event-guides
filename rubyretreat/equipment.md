@@ -8,13 +8,13 @@ Some venues have projectors, some don't, so best to research this ahead of time.
 
 ### Power Cables and Boards
 
-Ruby Australia has a collection of power cables and power boards that are shared from camp to camp. You should get in touch with the previous organisers to locate these and have them delivered to you.
+Ruby Australia has a collection of power cables and power boards that are shared from event to event. You should get in touch with the previous organisers to locate these and have them delivered to you.
 
-This saves every camp from having to buy all of this gear again.
+This saves every event organiser from having to buy all of this gear again.
 
 ### Server
 
-Ruby Australia has a dedicated Mac Mini for the purpose of hosting a RubyGems mirror and other such files and services at Rails Camps. Again, the previous organisers will be able to point you in the right direction and share details on what's needed to get it up-to-date.
+Ruby Australia has a dedicated Mac Mini for the purpose of hosting a RubyGems mirror and other such files and services at Ruby Retreats. Again, the previous organisers will be able to point you in the right direction and share details on what's needed to get it up-to-date.
 
 ### Networking
 
