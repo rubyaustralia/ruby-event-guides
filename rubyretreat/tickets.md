@@ -29,3 +29,9 @@ It's recommended that you have a deadline for ticket sales of a month prior to t
 As part of ongoing efforts to increase the diversity of the Ruby community, scholarship tickets are usually made available for people who wouldn't otherwise be able to afford a Ruby Retreat ticket. Recent events have had an application process for this, and then awarded the scholarships by their chosen metrics.
 
 There may be specific sponsorship funds available for this purpose - the Ruby Australia team will confirm. Otherwise, it's an excellent option for attracting event-specific sponsors.
+
+The organising team has final approval on up to 3 opportunity tickets and can request committee approval to exceed 3.
+
+The organising team may use any means it chooses to allocate opportunity tickets.
+
+As a guideline aim for initial approval at least 6 weeks out in case recipients need to book flights, but continue accepting applications afterward in case capacity or circumstances allow.
